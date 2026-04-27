@@ -6,12 +6,10 @@ I write bilingual (EN/ES) engineering notes about platform engineering, Kubernet
 
 ## Around the web
 
-- Blog: <a href="https://blog.armandoherra.com" rel="me">blog.armandoherra.com</a>
-- Medium: <a href="https://armandoherra.medium.com" rel="me">armandoherra.medium.com</a>
-- LinkedIn: <a href="https://linkedin.com/in/armandoherra" rel="me">linkedin.com/in/armandoherra</a>
-- X / Twitter: <a href="https://x.com/Armando_Herra" rel="me">@Armando_Herra</a>
-
-The `rel="me"` attributes above are part of [IndieWeb identity verification](https://indieweb.org/rel-me) — they let services like Mastodon and Bluesky confirm that this profile and the linked accounts are operated by the same person, when the linked profiles point back here.
+- Blog: [blog.armandoherra.com](https://blog.armandoherra.com)
+- Medium: [armandoherra.medium.com](https://armandoherra.medium.com)
+- LinkedIn: [linkedin.com/in/armandoherra](https://linkedin.com/in/armandoherra)
+- X / Twitter: [@Armando_Herra](https://x.com/Armando_Herra)
 
 ## What you'll find on the blog
 
@@ -22,4 +20,8 @@ The `rel="me"` attributes above are part of [IndieWeb identity verification](htt
 
 ## Currently building
 
-Several startup ideas under a future holding company, plus the open-source tooling that supports them. The blog is where I document what works, what breaks, and why.
+Several startup ideas under a future holding company, plus the open-source tooling that supports them. The blog documents what works, what breaks, and why.
+
+---
+
+*The links above are also surfaced in the profile sidebar (with `rel="me"` for [IndieWeb identity verification](https://indieweb.org/rel-me)) — GitHub's markdown sanitizer strips `rel="me"` from inline HTML, so the verification lives on the sidebar's Website + Social accounts fields.*
